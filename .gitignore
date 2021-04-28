@@ -1,0 +1,11 @@
+#Ignore .pyc
+*.pyc
+
+#Ignore test.py
+test*.py
+
+#Ignore build
+build/*
+
+#Ignore idea
+idea/*
